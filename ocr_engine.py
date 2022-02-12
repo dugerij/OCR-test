@@ -1,5 +1,5 @@
 from PIL import Image
-from PIL import ImageFilter
+
 import pytesseract
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe'
